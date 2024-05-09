@@ -1,6 +1,6 @@
 #streamlit_11_food
 
-[TeachableMachine](https://teachablemachine.withgoogle.com/train/image,'티쳐블 머신') 으로 학습한, 11개의 음식이미지를 예측하는 앱<br/>
+[TeachableMachine](https://teachablemachine.withgoogle.com/train/image,'티쳐블머신') 으로 학습한, 11개의 음식이미지를 예측하는 앱<br/>
 
 데이터셋은 : [kaggle](https://www.kaggle.com/datasets/trolukovich/food11-image-dataset,'캐글')에서 내려받아 진행하였음<br/><br/>
 
